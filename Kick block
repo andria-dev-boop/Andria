@@ -108,7 +108,7 @@ end
 -- KEY SCREEN
 -- ================================================
 local KG = Instance.new("ScreenGui")
-KG.Name = "GH_Key"
+KG.Name = "ANDRIA_DAVITI"
 KG.ResetOnSpawn = false
 KG.IgnoreGuiInset = true
 KG.DisplayOrder = 1001
